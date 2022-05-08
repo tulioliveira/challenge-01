@@ -1,6 +1,8 @@
 # Simple API Challenge
 
-![Screenshot](screenshot.png)
+<p align="center">
+  <img src="https://github.com/tulioliveira/challenge-01/blob/master/screenshot.png?raw=true" alt="Screenshot"/>
+</p>
 
 This challenge consists in creating a simple REST API to fit an existing Todos app that supports reading, creating, editing and deleting todos.
 
