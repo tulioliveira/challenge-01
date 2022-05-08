@@ -1,5 +1,7 @@
 # Simple API Challenge
 
+![Screenshot](screenshot.png)
+
 This challenge consists in creating a simple REST API to fit an existing Todos app that supports reading, creating, editing and deleting todos.
 
 The code used to interact with the API can be found in `webapp/api.js`. Use that as reference to how data is being handled in the frontend.
