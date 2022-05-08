@@ -1,0 +1,9 @@
+{
+  "name": "challenge-01",
+  "version": "1.0.0",
+  "description": "Example challenge for a junior backend developer interview",
+  "main": "index.js",
+  "repository": "git@github.com:tulioliveira/challenge-01.git",
+  "author": "Tulio Oliveira <tulio.ao@gmail.com>",
+  "license": "MIT"
+}

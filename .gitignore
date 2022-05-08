@@ -102,3 +102,77 @@ dist
 
 # TernJS port file
 .tern-port
+
+
+# Webapp
+
+# dependencies
+webapp/node_modules
+webapp/.pnp
+webapp/.pnp.js
+
+# testing
+webapp/coverage
+
+# production
+webapp/build
+
+# misc
+webapp/.DS_Store
+webapp/.env.local
+webapp/.env.development.local
+webapp/.env.test.local
+webapp/.env.production.local
+
+webapp/npm-debug.log*
+webapp/yarn-debug.log*
+webapp/yarn-error.log*
+
+
+# API
+
+# dependencies
+api/node_modules
+api/.pnp
+api/.pnp.js
+
+# testing
+api/coverage
+
+# production
+api/build
+
+# misc
+api/.DS_Store
+api/.env.local
+api/.env.development.local
+api/.env.test.local
+api/.env.production.local
+
+api/npm-debug.log*
+api/yarn-debug.log*
+api/yarn-error.log*
+
+# API
+
+# dependencies
+api-ts/node_modules
+api-ts/.pnp
+api-ts/.pnp.js
+
+# testing
+api-ts/coverage
+
+# production
+api-ts/build
+
+# misc
+api-ts/.DS_Store
+api-ts/.env.local
+api-ts/.env.development.local
+api-ts/.env.test.local
+api-ts/.env.production.local
+
+api-ts/npm-debug.log*
+api-ts/yarn-debug.log*
+api-ts/yarn-error.log*
